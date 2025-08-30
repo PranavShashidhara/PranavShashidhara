@@ -7,9 +7,13 @@ I'm a Data Science and Machine Learning enthusiast with experience in:
 - Interested in **experimentation, causal inference, and applied ML projects**
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShashidhara&layout=compact&theme=radical)  
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&theme=radical)
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&theme=radical)
+<!-- Top Languages and GitHub Stats side by side -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavShashidhara&show_icons=true&locale=en&layout=compact&theme=transparent" alt="khetansarvesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&locale=en&theme=transparent" alt="khetansarvesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavShashidhara&theme=transparent" alt="khetansarvesh" /></p>
 
 ## 📍 Connect with Me
 
