@@ -3,8 +3,9 @@
 ## 🚀 About Me
 
 I'm a Data Science and Machine Learning enthusiast with experience in:
-- Passionate about **Data Science, ML, NLP, LLMs, RAG systems, and AI-powered automation**  
-- Interested in **experimentation, data sicnce and applied ML projects**
+- **Data Science, ML, NLP, LLMs, RAG systems, and AI-powered automation**  
+- I'm interested in **experimentation, data sicnce and applied ML projects**
+- I like applying data science and machine learning to real-world applications. 
 
 ## GitHub Stats
 <!-- Top Languages and GitHub Stats side by side -->
