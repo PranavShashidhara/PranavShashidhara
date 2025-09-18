@@ -14,6 +14,7 @@ I'm a Data Science and Machine Learning enthusiast with experience in:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&locale=en&theme=transparent" alt="PranavShashidhara" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavShashidhara&theme=transparent" alt="PranavShashidhara" /></p>
 
 ## 📍 Connect with Me
 
