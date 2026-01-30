@@ -4,7 +4,7 @@
 
 I'm a Data Science and Machine Learning enthusiast with experience in:
 - **Data Science, ML, NLP, LLMs, RAG systems, and AI-powered automation**  
-- I'm interested in **experimentation, data sicnce and applied ML projects**
+- I'm interested in **experimentation, data science and applied ML projects**
 - I like applying data science and machine learning to real-world applications. 
 
 ## GitHub Stats
