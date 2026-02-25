@@ -1,24 +1,68 @@
-# 👋 Hi, I'm Pranav Shashidhara
+👋 Hi, I'm Pranav
 
-## 🚀 About Me
+🎓 MS in Data Science &nbsp;·&nbsp; 🤖 Building applied AI systems &nbsp;·&nbsp; ⚙️ Interested in scalable ML + LLM infrastructure
 
-I'm a Data Science and Machine Learning enthusiast with experience in:
-- **Data Science, ML, NLP, LLMs, RAG systems, and AI-powered automation**  
-- I'm interested in **experimentation, data science and applied ML projects**
-- I like applying data science and machine learning to real-world applications. 
+I enjoy building systems that go from **data → model → deployment → real-world use**.
 
-## GitHub Stats
-<!-- Top Languages and GitHub Stats side by side -->
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavShashidhara&show_icons=true&locale=en&layout=compact&theme=transparent" alt="PranavShashidhara" /></p>
+## 🧠 What I'm Interested In
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&locale=en&theme=transparent" alt="PranavShashidhara" /></p>
+- **Large Language Models (LLMs)** — architecture, fine-tuning, and inference
+- **Retrieval-Augmented Generation (RAG)** — building grounded, production-ready pipelines
+- **AI Agents & Automation** — autonomous workflows and tool-use systems
+- **Applied Machine Learning** — bridging research and real-world impact
+- **Generative Models** — diffusion models, RLHF, and parameter-efficient fine-tuning
+- **MLOps & Infrastructure** — CI/CD for ML, model registries, monitoring
+- **Distributed Model Serving** — high-throughput, low-latency inference at scale
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavShashidhara&theme=transparent" alt="PranavShashidhara" /></p>
+---
 
-## 📍 Connect with Me
+## 🚀 What You'll Find Here
 
-- [LinkedIn](https://www.linkedin.com/in/pranav-shashidhara-8a614595/)
-- [Medium](https://medium.com/me/stories?tab=posts-published)
+- End-to-end ML projects
+- LLM experimentation + fine-tuning
+- RAG architectures
+- Production-ready pipelines
+- Dockerized & cloud-deployed systems
+- Infrastructure experiments
 
+---
 
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavShashidhara&theme=transparent" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavShashidhara&layout=compact&theme=transparent" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavShashidhara&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🛠 Tech I Use Often
+
+**ML / AI** &nbsp;·&nbsp; Python · PyTorch · LangChain · Hugging Face · scikit-learn
+
+**Infrastructure** &nbsp;·&nbsp; Docker · Kubernetes · AWS · Terraform · GitHub Actions
+
+**Data** &nbsp;·&nbsp; SQL · dbt · Spark · Data Pipelines
+
+---
+
+## 🔭 Currently Exploring
+
+- Efficient fine-tuning techniques (LoRA, QLoRA, PEFT)
+- High-throughput model serving (vLLM, TGI)
+- Autonomous agent workflows
+- Infrastructure for scalable AI systems
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Shashidhara-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranav-shashidhara-8a614595/)
