@@ -4,8 +4,6 @@
 
 I enjoy building systems that go from **data → model → deployment → real-world use**.
 
----
-
 ## 🧠 What I'm Interested In
 
 - **Large Language Models (LLMs)** — architecture, fine-tuning, and inference
@@ -16,8 +14,6 @@ I enjoy building systems that go from **data → model → deployment → real-w
 - **MLOps & Infrastructure** — CI/CD for ML, model registries, monitoring
 - **Distributed Model Serving** — high-throughput, low-latency inference at scale
 
----
-
 ## 🚀 What You'll Find Here
 
 - End-to-end ML projects
@@ -26,8 +22,6 @@ I enjoy building systems that go from **data → model → deployment → real-w
 - Production-ready pipelines
 - Dockerized & cloud-deployed systems
 - Infrastructure experiments
-
----
 
 ## 📊 GitHub Activity
 
@@ -41,8 +35,10 @@ I enjoy building systems that go from **data → model → deployment → real-w
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavShashidhara&theme=github-compact&hide_border=true" />
 </p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavShashidhara&theme=transparent" />
+</p>
 
----
 
 ## 🛠 Tech I Use Often
 
@@ -52,7 +48,6 @@ I enjoy building systems that go from **data → model → deployment → real-w
 
 **Data** &nbsp;·&nbsp; SQL · dbt · Spark · Data Pipelines
 
----
 
 ## 🔭 Currently Exploring
 
@@ -60,8 +55,6 @@ I enjoy building systems that go from **data → model → deployment → real-w
 - High-throughput model serving (vLLM, TGI)
 - Autonomous agent workflows
 - Infrastructure for scalable AI systems
-
----
 
 ## 📫 Connect
 
