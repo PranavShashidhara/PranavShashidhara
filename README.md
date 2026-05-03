@@ -1,27 +1,30 @@
 👋 Hi, I'm Pranav
+🎓 MS in Data Science · 🤖 Building agentic LLM systems · ⚙️ GPU kernels to production pipelines
 
-🎓 MS in Data Science &nbsp;·&nbsp; 🤖 Building applied AI systems &nbsp;·&nbsp; ⚙️ Interested in scalable ML + LLM infrastructure
+I build systems that go from **data → model → deployment → real-world use**.
+Currently finishing my MS at UMD (GPA 3.97) while shipping agentic AI systems
+at MTech Ventures — AutoGen reasoning loops, MCP tool servers, RAG pipelines,
+and LLM infrastructure for real users.
 
-I enjoy building systems that go from **data → model → deployment → real-world use**.
-
-## 🧠 What I'm Interested In
-
-- **Large Language Models (LLMs)** — architecture, fine-tuning, and inference
-- **Retrieval-Augmented Generation (RAG)** — building grounded, production-ready pipelines
-- **AI Agents & Automation** — autonomous workflows and tool-use systems
-- **Applied Machine Learning** — bridging research and real-world impact
-- **Generative Models** — diffusion models, RLHF, and parameter-efficient fine-tuning
-- **MLOps & Infrastructure** — CI/CD for ML, model registries, monitoring
-- **Distributed Model Serving** — high-throughput, low-latency inference at scale
+## 🧠 What I Work On
+- **Agentic LLM Systems** — AutoGen, MCP servers, tool orchestration, reasoning loops
+- **LLM Fine-tuning & Inference** — QLoRA, PEFT, vLLM, multi-GPU deployment
+- **RAG Pipelines** — grounded, production-ready retrieval systems
+- **CUDA & GPU Systems** — kernel optimization, memory hierarchy, edge GPU benchmarking
+- **Generative Models** — diffusion models, segmentation-guided synthesis
+- **MLOps & Infrastructure** — Docker, Kubernetes, ONNX, CI/CD for ML
 
 ## 🚀 What You'll Find Here
+- Agentic AI systems with real users in the loop
+- LLM fine-tuning and distributed inference pipelines
+- CUDA kernel benchmarks and GPU systems experiments
+- RAG architectures and multimodal LLM apps
+- Dockerized, cloud-deployed, production-ready ML systems
 
-- End-to-end ML projects
-- LLM experimentation + fine-tuning
-- RAG architectures
-- Production-ready pipelines
-- Dockerized & cloud-deployed systems
-- Infrastructure experiments
+## 🛠 Tech I Use
+- **ML / AI** · Python · PyTorch · HuggingFace · LangChain · AutoGen · vLLM · PEFT
+- **Systems** · CUDA · C++ · Docker · Kubernetes · AWS · Terraform · GitHub Actions
+- **Data** · SQL · PySpark · Pandas · Pinecone · MLflow
 
 ## 📊 GitHub Activity
 
@@ -38,23 +41,6 @@ I enjoy building systems that go from **data → model → deployment → real-w
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavShashidhara&theme=transparent" />
 </p>
-
-
-## 🛠 Tech I Use Often
-
-**ML / AI** &nbsp;·&nbsp; Python · PyTorch · LangChain · Hugging Face · scikit-learn
-
-**Infrastructure** &nbsp;·&nbsp; Docker · Kubernetes · AWS · Terraform · GitHub Actions
-
-**Data** &nbsp;·&nbsp; SQL · dbt · Spark · Data Pipelines
-
-
-## 🔭 Currently Exploring
-
-- Efficient fine-tuning techniques (LoRA, QLoRA, PEFT)
-- High-throughput model serving (vLLM, TGI)
-- Autonomous agent workflows
-- Infrastructure for scalable AI systems
 
 ## 📫 Connect
 
