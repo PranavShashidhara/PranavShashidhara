@@ -1,9 +1,8 @@
-👋 Hi, I'm Pranav
-
+# 👋 Hi, I'm Pranav
 🎓 MS in Data Science · 🤖 Building agentic LLM systems · ⚙️ GPU kernels to production pipelines
 
 I build systems that go from **data → model → deployment → real-world use**.
-Currently finishing my MS at UMD (GPA 3.97) while shipping agentic AI systems
+Recently completed my MS at UMD (GPA 3.97) while shipping agentic AI systems
 at MTech Ventures — AutoGen reasoning loops, MCP tool servers, RAG pipelines,
 and LLM infrastructure for real users.
 
@@ -28,7 +27,6 @@ and LLM infrastructure for real users.
 - **Data** · SQL · PySpark · Pandas · Pinecone · MLflow
 
 ## 📊 GitHub Activity
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavShashidhara&theme=transparent" />
@@ -44,5 +42,4 @@ and LLM infrastructure for real users.
 </p>
 
 ## 📫 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Shashidhara-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranav-shashidhara-8a614595/)
