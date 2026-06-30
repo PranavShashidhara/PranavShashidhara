@@ -1,34 +1,37 @@
 # 👋 Hi, I'm Pranav
-🎓 MS in Data Science · 🤖 Building agentic LLM systems · ⚙️ GPU kernels to production pipelines
+
+🎓 MS in Data Science, UMD · 🤖 Agentic LLM systems · ⚙️ GPU kernels to production pipelines
 
 I build systems that go from **data → model → deployment → real-world use**.
-Recently completed my MS at UMD (GPA 3.97) while shipping agentic AI systems
-at MTech Ventures — AutoGen reasoning loops, MCP tool servers, RAG pipelines,
-and LLM infrastructure for real users.
+MS in Data Science from UMD (GPA 3.97), with prior experience as a Technical
+Analyst at Oracle and recent work building agentic AI systems at MTech Ventures.
 
 ## 🧠 What I Work On
-- **Agentic LLM Systems** — AutoGen, MCP servers, tool orchestration, reasoning loops
-- **LLM Fine-tuning & Inference** — QLoRA, PEFT, vLLM, multi-GPU deployment
-- **RAG Pipelines** — grounded, production-ready retrieval systems
+
+- **Agentic LLM Systems** — MCP servers, tool orchestration, multi-agent reasoning loops
+- **LLM Fine-tuning & Inference** — QLoRA, vLLM, multi-GPU deployment
+- **RAG Pipelines** — retrieval systems with eval gates and citation grounding
 - **CUDA & GPU Systems** — kernel optimization, memory hierarchy, edge GPU benchmarking
 - **Generative Models** — diffusion models, segmentation-guided synthesis
-- **MLOps & Infrastructure** — Docker, Kubernetes, ONNX, CI/CD for ML
+- **MLOps & Infrastructure** — Docker, Kubernetes, CI/CD for ML
 
 ## 🚀 What You'll Find Here
-- Agentic AI systems with real users in the loop
-- LLM fine-tuning and distributed inference pipelines
-- CUDA kernel benchmarks and GPU systems experiments
-- RAG architectures and multimodal LLM apps
-- Dockerized, cloud-deployed, production-ready ML systems
+
+- An agentic RAG system in production use, with eval-gated CI/CD and autoscaling
+- An MCP tool server used by analysts at MTech Ventures
+- CUDA kernel benchmarks with roofline analysis on edge GPUs
+- LLM fine-tuning and multi-GPU inference pipelines
+- Generative and applied NLP projects outside the core infra work
 
 ## 🛠 Tech I Use
-- **ML / AI** · Python · PyTorch · HuggingFace · LangChain · AutoGen · vLLM · PEFT
-- **Systems** · CUDA · C++ · Docker · Kubernetes · AWS · Terraform · GitHub Actions
-- **Data** · SQL · PySpark · Pandas · Pinecone · MLflow
+
+- **ML / AI** — Python, PyTorch, HuggingFace, vLLM, PEFT/QLoRA
+- **Systems** — CUDA, C++, Docker, Kubernetes, AWS, GitHub Actions
+- **Data** — SQL, PySpark, Pandas, Pinecone, MLflow
+
 
 ## 📊 GitHub Activity
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavShashidhara&show_icons=true&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavShashidhara&theme=transparent" />
 </p>
 <p>
